@@ -41,7 +41,7 @@
     "TungTungTung Sahur": {
         "Type": "AOE",
         "Image": "rbxassetid://126805937622720",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 3000,
         "Max": 5,
         "Offset": 0.25,
