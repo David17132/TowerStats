@@ -41,8 +41,8 @@
     "Sentinel Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://16620054000",
-        "Rarity": "Rare",
-        "PlacePrice": 500,
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
         "Max": 5,
         "Offset": 0.25,
         "hitboxOffset": {
