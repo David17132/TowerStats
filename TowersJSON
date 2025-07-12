@@ -1,8 +1,8 @@
 {
-    "TunTungTung Sahur": {
+    "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://126805937622720",
-        "Rarity": "Nightmare",
+        "Rarity": "Uncommon",
         "PlacePrice": 3000,
         "Max": 8,
         "Offset": 0.3,
@@ -38,11 +38,11 @@
             }
         ]
     },
-    "Sentinel Bonnie": {
+    "TungTunfTung Sahur": {
         "Type": "AOE",
-        "Image": "rbxassetid://16620054000",
-        "Rarity": "Rare",
-        "PlacePrice": 500,
+        "Image": "rbxassetid://126805937622720",
+        "Rarity": "Nightmare",
+        "PlacePrice": 3000,
         "Max": 5,
         "Offset": 0.25,
         "hitboxOffset": {
