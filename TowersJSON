@@ -1,40 +1,84 @@
 {
-    "Cameraman": {
-        "Type": "Single",
-        "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
-        "PlacePrice": 300,
-        "Max": 8,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
-            },
-            {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
-            },
-            {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
-            }
-        ]
+  "Cameraman": {
+    "Type": "Single",
+    "Image": "rbxassetid://16620053009",
+    "Rarity": "Uncommon",
+    "PlacePrice": 300,
+    "Max": 8,
+    "Offset": 0.3,
+    "hitboxOffset": {
+      "X": 0,
+      "Y": 0,
+      "Z": 0
     },
+    "Upgrades": [
+      {
+        "Price": 0,
+        "Range": 10,
+        "Damage": 40,
+        "Cooldown": 1
+      },
+      {
+        "Price": 500,
+        "Range": 12,
+        "Damage": 50,
+        "Cooldown": 1
+      },
+      {
+        "Price": 750,
+        "Range": 14,
+        "Damage": 60,
+        "Cooldown": 1
+      },
+      {
+        "Price": 1250,
+        "Range": 15,
+        "Damage": 60,
+        "Cooldown": 0.75
+      }
+    ]
+  },
+  "UpgradedTitanSpeakerman": {
+    "Name": "Upgraded Titan Speakerman",
+    "Rarity": "Mythic",
+    "Cost": 700,
+    "Type": "Multi",
+    "Amount": 1,
+    "Damage": 100,
+    "Cooldown": 1.8,
+    "Range": 12,
+    "Upgrades": [
+      {
+        "Damage": 130,
+        "Cooldown": 1.7,
+        "Range": 13,
+        "Cost": 600
+      },
+      {
+        "Damage": 170,
+        "Cooldown": 1.6,
+        "Range": 14,
+        "Cost": 900
+      },
+      {
+        "Damage": 220,
+        "Cooldown": 1.4,
+        "Range": 15,
+        "Cost": 1400
+      },
+      {
+        "Damage": 280,
+        "Cooldown": 1.2,
+        "Range": 16,
+        "Cost": 1800
+      },
+      {
+        "Damage": 350,
+        "Cooldown": 1.0,
+        "Range": 18,
+        "Cost": 2500
+      }
+    ],
+    "Image": "rbxassetid://INSERTA_ID_AQUI",
+  }
+}
