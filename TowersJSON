@@ -2,7 +2,7 @@
   "UpgradedTitanSpeakerman": {
     "Type": "Single",
     "Image": "rbxassetid://93468206667180",
-    "Rarity": "Common",
+    "Rarity": "Nightmare",
     "PlacePrice": 3000,
     "Max": 8,
     "Offset": 0.3,
@@ -38,11 +38,11 @@
       }
     ]
   },
-  "UpgradedTitanCameraman": {
+  "UpgradedTItanWoman": {
     "Type": "Single",
     "Image": "rbxassetid://71694148171353",
-    "Rarity": "Uncommon",
-    "PlacePrice": 4000,
+    "Rarity": "Epic",
+    "PlacePrice": 1000,
     "Max": 8,
     "Offset": 0.3,
     "hitboxOffset": {
@@ -80,8 +80,8 @@
   "AstroTitan": {
     "Type": "Single",
     "Image": "rbxassetid://87938889529645",
-    "Rarity": "Nightmare",
-    "PlacePrice": 2000,
+    "Rarity": "rare",
+    "PlacePrice": 600,
     "Max": 8,
     "Offset": 0.3,
     "hitboxOffset": {
@@ -159,7 +159,7 @@
     "Type": "Single",
     "Image": "rbxassetid://72319803698850",
     "Rarity": "Mythic",
-    "PlacePrice": 4500,
+    "PlacePrice": 450,
     "Max": 8,
     "Offset": 0.3,
     "hitboxOffset": {
