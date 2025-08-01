@@ -41,7 +41,7 @@
   "UpgradedTitanCameraman": {
     "Type": "Single",
     "Image": "rbxassetid://71694148171353",
-    "Rarity": "Secret",
+    "Rarity": "Uncommon",
     "PlacePrice": 4000,
     "Max": 8,
     "Offset": 0.3,
@@ -80,7 +80,7 @@
   "AstroTitan": {
     "Type": "Single",
     "Image": "rbxassetid://87938889529645",
-    "Rarity": "Secret",
+    "Rarity": "Nightmare",
     "PlacePrice": 2000,
     "Max": 8,
     "Offset": 0.3,
