@@ -1,8 +1,8 @@
 {
-  "Cameraman": {
+  "UpgradedTitanSpeakerman": {
     "Type": "Single",
     "Image": "rbxassetid://16620053009",
-    "Rarity": "Uncommon",
+    "Rarity": "Secret",
     "PlacePrice": 300,
     "Max": 8,
     "Offset": 0.3,
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "UpgradedTitanSpeakerman": {
+  "Cameraman": {
     "Name": "Upgraded Titan Speakerman",
     "Rarity": "Nightmare",
     "Cost": 700,
