@@ -80,7 +80,7 @@
   "AstroTitan": {
     "Type": "Single",
     "Image": "rbxassetid://87938889529645",
-    "Rarity": "rare",
+    "Rarity": "Rare",
     "PlacePrice": 600,
     "Max": 8,
     "Offset": 0.3,
@@ -235,7 +235,7 @@
   },
   "CinemaMan": {
     "Type": "Single",
-    "Image": "rbxassetid://133111619114592",
+    "Image": "rbxassetid://84065842192983",
     "Rarity": "Nightmare",
     "PlacePrice": 3000,
     "Max": 8,
