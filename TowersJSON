@@ -2,7 +2,7 @@
   "UpgradedTitanSpeakerman": {
     "Type": "Single",
     "Image": "rbxassetid://93468206667180",
-    "Rarity": "Nightmare",
+    "Rarity": "Uncommon",
     "PlacePrice": 3000,
     "Max": 8,
     "Offset": 0.3,
@@ -41,7 +41,7 @@
   "UpgradedTItanWoman": {
     "Type": "Single",
     "Image": "rbxassetid://71694148171353",
-    "Rarity": "Epic",
+    "Rarity": "Rare",
     "PlacePrice": 1000,
     "Max": 8,
     "Offset": 0.3,
@@ -80,7 +80,7 @@
   "AstroTitan": {
     "Type": "Single",
     "Image": "rbxassetid://87938889529645",
-    "Rarity": "Rare",
+    "Rarity": "Epic",
     "PlacePrice": 600,
     "Max": 8,
     "Offset": 0.3,
@@ -119,7 +119,7 @@
   "TitanCinemaMan": {
     "Type": "Single",
     "Image": "rbxassetid://97768135635419",
-    "Rarity": "Secret",
+    "Rarity": "Mythic",
     "PlacePrice": 3500,
     "Max": 8,
     "Offset": 0.3,
@@ -158,7 +158,7 @@
   "TvMan": {
     "Type": "Single",
     "Image": "rbxassetid://72319803698850",
-    "Rarity": "Mythic",
+    "Rarity": "Secret",
     "PlacePrice": 450,
     "Max": 8,
     "Offset": 0.3,
@@ -197,7 +197,7 @@
   "CameraMan": {
     "Type": "Single",
     "Image": "rbxassetid://128009166393631",
-    "Rarity": "Uncommon",
+    "Rarity": "Nightmare",
     "PlacePrice": 300,
     "Max": 8,
     "Offset": 0.3,
